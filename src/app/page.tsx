@@ -10,6 +10,7 @@ import { ThemeToggle } from '@/components/theme-toggle';
 import { ShieldCheck } from 'lucide-react';
 
 export interface HistoryEntry {
+  // hello
   id: string;
   text: string;
   result: AnalyzeTextWithGeminiOutput;
